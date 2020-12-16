@@ -1,3 +1,21 @@
+## Nombre del proyecto
+<p>
+   Sistema de activos fijos y depreciaciones    
+</p>
+## Integrantes
+<p>
+    Dorian Hidalgo Loaiza
+    Hilary Villalobos Pizarro   
+</p>
+## Descripción del sistema
+<p>
+   El sistema se encarga de llevar el registro de los activos fijos que ingresan al Centro diurno del tejar llevando a su vez un control automático de la depreciación mensual de cada artículo que haya ingresado al sistema. El sitema permite la generación de reportes en formato pdf y en gráficos.
+</p>
+
+## Cómo instalar el repositorio en el equipo para desarrollo
+
+## About Laravel
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
