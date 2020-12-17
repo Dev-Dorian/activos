@@ -1,21 +1,15 @@
 ## Nombre del proyecto
-<p>
    Sistema de activos fijos y depreciaciones    
-</p>
 
 ## Integrantes
-<p>
     Dorian Hidalgo Loaiza
     Hilary Villalobos Pizarro   
-</p>
 
 ## Descripción del sistema
-<p>
-   El sistema se encarga de llevar el registro de los activos fijos que ingresan al Centro diurno del tejar llevando a su vez un control automático de la depreciación mensual de cada artículo que haya ingresado al sistema. El sitema permite la generación de reportes en formato pdf y en gráficos.
-</p>
+El sistema se encarga de llevar el registro de los activos fijos que ingresan al Centro diurno del tejar llevando a su vez un control automático de la depreciación mensual de cada artículo que haya ingresado al sistema. El sitema permite la generación de reportes en formato pdf y en gráficos.
 
 ## Cómo instalar el repositorio en el equipo para desarrollo
-<p>
+
 Paso 1: Tener una cuenta en github
 Paso 2: Instalar git en https://git-scm.com/
 Paso 3: Crear un nuevo repositoria en github.com
@@ -35,7 +29,6 @@ Paso 14: Escribimos git push origin master, mandamos la carpeta de nuestro repos
 Paso 15: Ingresar credenciales de ser necesario.
 Paso 16: Verificar que se encuentre el repositorio creado en github.
 
-</p>
 ## About Laravel
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
