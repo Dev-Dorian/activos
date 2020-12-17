@@ -10,24 +10,23 @@ El sistema se encarga de llevar el registro de los activos fijos que ingresan al
 
 ## Cómo instalar el repositorio en el equipo para desarrollo
 
-Paso 1: Tener una cuenta en github
-Paso 2: Instalar git en https://git-scm.com/
-Paso 3: Crear un nuevo repositoria en github.com
-Paso 4: Asignarle un nombre, descripción, y archivo README y presione en “Create repository” 
-Paso 5: Abrir en Windows la carpeta Git.
-Paso 6: Abrir Git CMD
-Paso 7: Abrir en el CMD la ruta de la carpeta en la que se encuentra nuestro proyecto.
-en este caso “cd \xampp\htdocs\sistema\git”
-
-Paso 8: Escribimos “git status” para verificar que exista el repositorio.
-Paso 9: Como no existe inicializaremos el repositorio al escribir “git init”
-Paso 10: Se debe agregar el proyecto al repositorio con “git add -A”
-Paso 11: Escribimos ”git status” para verificar el repositorio.
-Paso 12: Hacemos un commit para inicializar una versión para ello escribimos “git commit -m “version 1”” para crear la primera versión local.
-Paso 13: Escribimos git remote add origin y se ingresa el login del github de nuestro proyecto para conectarnos al repositorio en github.
-Paso 14: Escribimos git push origin master, mandamos la carpeta de nuestro repositorio al github.
-Paso 15: Ingresar credenciales de ser necesario.
-Paso 16: Verificar que se encuentre el repositorio creado en github.
+<br>Paso 1: Tener una cuenta en github</br>
+<br>Paso 2: Instalar git en https://git-scm.com/</br>
+<br>Paso 3: Crear un nuevo repositoria en github.com</br>
+<br>Paso 4: Asignarle un nombre, descripción, y archivo README y presione en “Create repository” </br>
+<br>Paso 5: Abrir en Windows la carpeta Git.</br>
+<br>Paso 6: Abrir Git CMD</br>
+<br>Paso 7: Abrir en el CMD la ruta de la carpeta en la que se encuentra nuestro proyecto.
+en este caso “cd \xampp\htdocs\sistema\git”</br>
+<br>Paso 8: Escribimos “git status” para verificar que exista el repositorio.</br>
+<br>Paso 9: Como no existe inicializaremos el repositorio al escribir “git init”</br>
+<br>Paso 10: Se debe agregar el proyecto al repositorio con “git add -A”</br>
+<br>Paso 11: Escribimos ”git status” para verificar el repositorio.</br>
+<br>Paso 12: Hacemos un commit para inicializar una versión para ello escribimos “git commit -m “version 1”” para crear la primera versión local.</br>
+<br>Paso 13: Escribimos git remote add origin y se ingresa el login del github de nuestro proyecto para conectarnos al repositorio en github.</br>
+<br>Paso 14: Escribimos git push origin master, mandamos la carpeta de nuestro repositorio al github.</br>
+<br>Paso 15: Ingresar credenciales de ser necesario.</br>
+<br>Paso 16: Verificar que se encuentre el repositorio creado en github.</br>
 
 ## About Laravel
 
